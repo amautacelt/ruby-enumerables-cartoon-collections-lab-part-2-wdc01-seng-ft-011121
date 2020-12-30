@@ -42,6 +42,7 @@ def find_valid_calls(planeteer_calls)
   
   planeteer_calls.find do |element|
     if planeteer_calls[0] = "Earth"
+    end
   end
   
 end
