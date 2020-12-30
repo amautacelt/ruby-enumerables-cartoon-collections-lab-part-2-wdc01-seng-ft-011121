@@ -17,7 +17,7 @@ def summon_captain_planet(planeteer_calls)
     array = []
     array << "#{element.capitalize}!"
   end
-  planeteer_calls
+  
 end
 
 
