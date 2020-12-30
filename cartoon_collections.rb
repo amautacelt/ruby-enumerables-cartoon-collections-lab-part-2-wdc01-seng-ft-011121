@@ -43,4 +43,5 @@ def find_valid_calls(planeteer_calls)
   find_valid_calls.detect do |element|
     
   end
+  find_valid_calls
 end
