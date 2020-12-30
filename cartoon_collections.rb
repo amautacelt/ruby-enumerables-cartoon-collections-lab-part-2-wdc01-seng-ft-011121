@@ -29,8 +29,10 @@ def long_planeteer_calls(planeteer_calls)
     if element.length > 4
       puts element
     end
-  long_planeteer_calls
+
 end
+
+
 
 def find_valid_calls(planeteer_calls)
   valid_calls = ["Earth!", "Wind!", "Fire!", "Water!", "Heart!"]
